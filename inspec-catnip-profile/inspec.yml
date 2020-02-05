@@ -9,3 +9,6 @@ version: 0.1.0
 supports:
   - os-name: ubuntu
     release: 16.04
+supports:
+  - os-name: centos
+    release: 7.5.1804
